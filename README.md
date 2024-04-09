@@ -1,7 +1,3 @@
-# f-lab-python-backend-project-template
-
-F-lab에서 사용하는 Python backend project template 입니다.
-
 ## How to install
 
 ### Pre-requisites
